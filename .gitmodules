@@ -1,0 +1,6 @@
+[submodule "attorneytech-API"]
+	path = attorneytech-API
+	url = https://github.com/AttorneyTech/attorneytech-API.git
+[submodule "attorneytech-database"]
+	path = attorneytech-database
+	url = https://github.com/AttorneyTech/attorneytech-database.git
